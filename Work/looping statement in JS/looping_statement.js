@@ -136,4 +136,15 @@
         // }
 
 
+//-- Sum of natural number --//
         
+        // let a = parseInt(prompt("enter the first number:"));
+        // let b = parseInt(prompt("enter the second number:"));
+
+        // sum=0;
+        // for(i=a;i<=b;i++){
+        //         sum=sum+i;
+        // }
+        // console.log(sum);
+        // alert(sum)
+
