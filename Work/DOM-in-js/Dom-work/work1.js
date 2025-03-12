@@ -1,8 +1,10 @@
-function reverseString(str) {
-    return str.split('').reverse().join('');
+function reverseString() {
+    let a = document.getElementById("vv").value;
+    let b = "";
+
+    for (let i=a.length-1; i>=0; i--){
+        b+=a[i];
+    }
+
+    document.getElementById("o1").innerText = "" + b ;
 }
-
-let a = document.getElementById("vv");
-let b = reverseString(a.value);
-
-document.getElementById("o1").innerHTML = (b);

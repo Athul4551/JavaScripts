@@ -4,6 +4,8 @@ function add(){
     let b = document.getElementById("input2")
     let c = parseInt(a.value) + parseInt(b.value)
     console.log(c.value);
+    console.log(isNaN(c) ? "143" : c);
+    
     document.getElementById("o1").innerHTML=(c)
 }
 
