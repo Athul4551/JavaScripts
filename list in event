@@ -1,0 +1,15 @@
+1.mouse events and keyboard events
+    a.click
+    b.double click(dbl)
+    c.mouse down
+    d.mouse up
+    e.mouse move
+    f.mouse enter
+    g.mouse live
+    h.mouse hover
+    i.mouse out
+
+2.keyboard events
+    a.key down
+    b.key up 
+    c.key press
